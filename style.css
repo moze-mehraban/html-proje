@@ -27,6 +27,9 @@
         }
 .myform input {
 background :#ffffff;
+width:45%;
+height : 50px;
+font-size : 100%;
 }
 .right .info {
     width: 100%;
