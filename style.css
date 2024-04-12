@@ -23,14 +23,30 @@
         .right .myform {
             width: 100%;
             height: 80%;
+            
             background: #f7f1e3;
         }
-.myform input {
-background :#ffffff;
-width:49%;
-height : 50px;
-padding :2%;
-font-size : 110%;
+.myform input[type=text] {
+    background: #ffffff;
+    width: 49.625%;
+    height: 70px;
+    padding: 2%;
+    font-size: 200%;
+}
+.myform select {
+    background: #ffffff;
+    width: 100%;
+    height: 70px;
+    padding: 2%;
+    font-size: 200%;
+}
+    .myform input[type=email]{
+    background: #ffffff;
+    width: 100%;
+    height: 70px;
+    margin : 5px 0  5px 0;
+    padding: 2%;
+    font-size: 200%;
 }
 .right .info {
     width: 100%;
